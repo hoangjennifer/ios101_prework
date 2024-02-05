@@ -35,7 +35,7 @@ Todoist
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were only minor challenges encountered while building the app.  Sometimes the instructions were not clear where to locate something within Xcode but after playing around with it, I was able to figure it out.
 
 ## License
 
